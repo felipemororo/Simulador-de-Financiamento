@@ -1,5 +1,5 @@
 # Simulador-de-Financiamento
-This site is publish at https://felipemororo.github.io/Simulador-de-Financiamento/
+This site is published at https://felipemororo.github.io/Simulador-de-Financiamento/
 
 Project created to consolidate the knowledge about the concepts of object oriented programming that was learned in the Tech Academy course at StartSe.
 
